@@ -1,3 +1,3 @@
 # smart-attendance-capturing-system
 
-this is my coll
+this is my college
