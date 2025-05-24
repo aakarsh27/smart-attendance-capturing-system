@@ -2,6 +2,6 @@
 
 this is my college project
 
-i need to create a rep
+i need to create a repo
 
 
