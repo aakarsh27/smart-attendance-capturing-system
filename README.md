@@ -2,4 +2,4 @@
 
 this is my college project
 
-i need to create a repository for this pro
+i need to create a repository for this proj
