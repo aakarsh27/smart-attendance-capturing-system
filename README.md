@@ -2,5 +2,5 @@
 
 this is my college project
 
-i need to create a repository for this projec
+i need to create a repository for this project
 
