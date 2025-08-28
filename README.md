@@ -2,4 +2,4 @@
 
 this is my college project
 
-i need to create a repos
+i need to create a repo
