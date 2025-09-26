@@ -2,4 +2,4 @@
 
 this is my college project
 
-i nee
+i ne
