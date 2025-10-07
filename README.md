@@ -1,3 +1,3 @@
 # smart-attendance-capturing-system
 
-this is my college proje
+this is my college proj
