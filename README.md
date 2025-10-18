@@ -1,4 +1,4 @@
 # smart-attendance-capturing-syst
 
-this is my col
+this is my co
 
