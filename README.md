@@ -1,4 +1,1 @@
 # smart-attendance-capturing-syst
-
-
-
